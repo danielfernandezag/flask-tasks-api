@@ -1,0 +1,3 @@
+Commands for running:
+   1.- pipenv shell - access pipenv virtual enviroment
+   2.- python app.py - run server
